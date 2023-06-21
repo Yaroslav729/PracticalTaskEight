@@ -1,0 +1,15 @@
+G:\GB\PracticalTaskEight\Task sixty\bin\Debug\net7.0\Task sixty.exe
+G:\GB\PracticalTaskEight\Task sixty\bin\Debug\net7.0\Task sixty.deps.json
+G:\GB\PracticalTaskEight\Task sixty\bin\Debug\net7.0\Task sixty.runtimeconfig.json
+G:\GB\PracticalTaskEight\Task sixty\bin\Debug\net7.0\Task sixty.dll
+G:\GB\PracticalTaskEight\Task sixty\bin\Debug\net7.0\Task sixty.pdb
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\Task sixty.csproj.AssemblyReference.cache
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\Task sixty.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\Task sixty.AssemblyInfoInputs.cache
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\Task sixty.AssemblyInfo.cs
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\Task sixty.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\Task sixty.dll
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\refint\Task sixty.dll
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\Task sixty.pdb
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\Task sixty.genruntimeconfig.cache
+G:\GB\PracticalTaskEight\Task sixty\obj\Debug\net7.0\ref\Task sixty.dll
